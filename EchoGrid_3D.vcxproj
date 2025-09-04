@@ -107,7 +107,7 @@
       </AdditionalUsingDirectories>
     </ClCompile>
     <Link>
-      <SubSystem>Console</SubSystem>
+      <SubSystem>Windows</SubSystem>
       <GenerateDebugInformation>true</GenerateDebugInformation>
       <AdditionalLibraryDirectories>C:\VS\ProjectTitan\ProjectTicTac\EchoGrid_3D\lib;%(AdditionalLibraryDirectories)</AdditionalLibraryDirectories>
       <AdditionalDependencies>raylib.lib;opengl32.lib;winmm.lib;%(AdditionalDependencies)</AdditionalDependencies>
@@ -126,7 +126,7 @@
       </AdditionalUsingDirectories>
     </ClCompile>
     <Link>
-      <SubSystem>Console</SubSystem>
+      <SubSystem>Windows</SubSystem>
       <GenerateDebugInformation>true</GenerateDebugInformation>
       <AdditionalLibraryDirectories>C:\VS\ProjectTitan\ProjectTicTac\EchoGrid_3D\lib;%(AdditionalLibraryDirectories)</AdditionalLibraryDirectories>
       <AdditionalDependencies>raylib.lib;opengl32.lib;winmm.lib;%(AdditionalDependencies)</AdditionalDependencies>
